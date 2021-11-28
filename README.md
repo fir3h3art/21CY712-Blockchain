@@ -8,3 +8,6 @@ Contract Deployment Address: [0xf6ff8204ba87668cfeceb32e204a2ddaa7d723c6](https:
 
 [Transaction 1](https://ropsten.etherscan.io/tx/0xb76c5d4ccc4837f4d85d0c379b5da90d7efa9e64318c42f4b8784bcdbc730b3d) <br/>
 [Transaction 2](https://ropsten.etherscan.io/tx/0xf6d9121d14650091a456d3171e58feddba7fc72ac6b6ef43bd033de120827e1c) <br/>
+
+# Artist Program
+Contract Deployment Address: [0xae687f6c5016860569dfd7f0cfa2155d9db53a65](https://ropsten.etherscan.io/tx/0x2bcb047921706a8b388ff60102e8e21d923d1d3a2c01eec607e0a25556398f9b)
